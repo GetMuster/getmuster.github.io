@@ -184,14 +184,9 @@ function InboxFeatures(){return/*#__PURE__*/react_default.a.createElement("secti
 // CONCATENATED MODULE: ./src/views/Index.js
 class Index_Index extends react_default.a.Component{componentDidMount(){document.documentElement.scrollTop=0;document.scrollingElement.scrollTop=0;this.refs.main.scrollTop=0;}render(){return/*#__PURE__*/react_default.a.createElement(react_default.a.Fragment,null,/*#__PURE__*/react_default.a.createElement(Navbar_Navbar,null),/*#__PURE__*/react_default.a.createElement("main",{ref:"main"},/*#__PURE__*/react_default.a.createElement(IndexHero,null),/*#__PURE__*/react_default.a.createElement(IndexContactCards,null),/*#__PURE__*/react_default.a.createElement(InboxAbout,null),/*#__PURE__*/react_default.a.createElement(InboxFeatures,null)),/*#__PURE__*/react_default.a.createElement(Footer,null));}}/* harmony default export */ var views_Index = (Index_Index);
 // CONCATENATED MODULE: ./src/index.js
-// import "font-awesome/css/font-awesome.css";
-// import "bootstrap/dist/css/bootstrap.css";
-// import "argon-design-system-free/assets/css/argon-design-system.min.css";
-// // import "assets/scss/react/react-differences.scss";
-// import "assets/scss/overrides.scss";
 react_dom_default.a.render(/*#__PURE__*/react_default.a.createElement(react_router_dom["a" /* BrowserRouter */],null,/*#__PURE__*/react_default.a.createElement(react_router["d" /* Switch */],null,/*#__PURE__*/react_default.a.createElement(react_router["b" /* Route */],{path:"/",exact:true,render:props=>/*#__PURE__*/react_default.a.createElement(views_Index,props)}),/*#__PURE__*/react_default.a.createElement(react_router["a" /* Redirect */],{to:"/"}))),document.getElementById("root"));
 
 /***/ })
 
 },[[47,1,2]]]);
-//# sourceMappingURL=main.aa4c5000.chunk.js.map
+//# sourceMappingURL=main.d96d8647.chunk.js.map
